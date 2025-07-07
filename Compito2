@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compito N.2 Tabelle</title>
+    <link rel="stylesheet" href="stile.css">
+</head>
+<body>
+    <h1>Compito N.2 - Tabella</h1>
+    <table width="100%" border="1";>
+        <caption>Copia Della Tabella di Marco</caption>
+        <thead bgcolor="#be8f01">
+        <tr>
+            <th>ALBERGO</th><th>REGIONE</th><th>STELLE</th><th>COSTO CAMERA</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="#fee799">
+                <td>Aristeo</td><td>Emilia Romagna</td><td>1</td><td>76,00 € </td>
+            </tr>
+            <tr bgcolor="#ffffff">
+                <td>L'Essenza</td><td>Lombardia</td><td>2</td><td>87,00 € </td>
+            </tr>
+            <tr bgcolor="#fee799">
+                <td>Sara</td><td>Lombardia</td><td>4</td><td>142,00 € </td>
+            </tr>
+            <tr bgcolor="#ffffff">
+                <td>Grand Hotel</td><td>Emilia Romagna</td><td>5</td><td>280,00 € </td>
+            </tr>
+            <tr bgcolor="#fee799">
+                <td>Capriccio</td><td>Calabria</td><td>4</td><td>155,00 € </td>
+            </tr>
+            <tr bgcolor="#ffffff">
+                <td>Ambassador</td><td>Calabria</td><td>2</td><td>84,00 € </td>
+            </tr>
+            <tr bgcolor="#fee799">
+                <td>Aster</td><td>Emilia Romagna</td><td>3</td><td>134,00 € </td>
+            </tr>
+            <tfoot>
+                <tr bgcolor="#ffffff">
+                <td>Jazz</td><td>Sardegna</td><td>3</td><td>134,00 € </td>
+            </tr>
+            </tfoot>
+        </tbody>
+    </table>
+</body>
+</html>
