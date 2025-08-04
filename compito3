@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compito 3 Parte 1</title>
+    <style>
+        p{
+            text-align: left;
+            font-size: 20px;
+            font-style: italic;
+            font-weight: normal;
+            color: grey;
+         }
+         h1{
+            font-family:Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            line-height: 1;
+         }
+    </style>
+</head>
+<body>
+    <h1>
+        Jovanotti ricorda la madre Viola: 
+        "Oggi avresti compiuto 90 anni, 
+        ma so con chi se e che sei contenta"
+    </h>
+    <div>
+        <p>
+            Nel giorno in cui sua madre Viola avrebbe compiuto 90 anni,
+            Jovanotti la ricorda con due foto in bianco e nero insieme
+            alla figlia Teresa.
+        </p>
+    </div>
+    
+</body>
+</html>
